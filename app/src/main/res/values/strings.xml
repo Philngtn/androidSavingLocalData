@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">StudentProfile</string>
+    <string name="button">Button</string>
+    <string name="save">Save</string>
+    <string name="sid">SID:</string>
+    <string name="age">Age:</string>
+    <string name="name">Name:</string>
+    <string name="john">John</string>
+    <string name="_28">28</string>
+    <string name="_223141">223141</string>
+</resources>
